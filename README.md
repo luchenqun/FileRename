@@ -5,5 +5,5 @@
     2、将转换后的信息写到excel表格中。
     其中第2点使用的是别人的源码：http://www.codeproject.com/Articles/13852/
     工程中的 BasicExcelVC6.h，BasicExcelVC6.cpp可能是VC6.0下环境编译用的吧。具体对excel的操作大家请去上面的链接去看。有详细的说明
-    工程使用的是Visual Studio 2013编译的。吐槽一下：Visual Studio 2013把以前很多的警告提升了错误。好坑爹啊。
+    工程使用的是Visual Studio 2013编译的。吐槽一下：Visual Studio 2013把以前很多的警告提升了错误。好坑爹啊！
 
